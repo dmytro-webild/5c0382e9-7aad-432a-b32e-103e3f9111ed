@@ -63,11 +63,11 @@ export default function LandingPage() {
       tag="New 3D Menu Experience"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157791.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157791.jpg?_wi=1",
           imageAlt: "Restaurant ambiance",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-fruit-salad-wooden-boards_114579-18594.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-fruit-salad-wooden-boards_114579-18594.jpg?_wi=1",
           imageAlt: "Culinary art dish",
         },
         {
@@ -129,7 +129,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/chef-preparing-recipe_23-2148145586.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157791.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157791.jpg?_wi=2",
           imageAlt: "professional chef working in kitchen",
         },
         {
@@ -141,7 +141,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/beverage-topped-with-fried-orange-slice_141793-1125.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-fruit-salad-wooden-boards_114579-18594.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-fruit-salad-wooden-boards_114579-18594.jpg?_wi=2",
           imageAlt: "professional chef working in kitchen",
         },
         {
