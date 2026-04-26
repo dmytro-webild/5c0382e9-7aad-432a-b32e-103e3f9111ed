@@ -130,6 +130,11 @@ export default function LandingPage() {
       ]}
       title="Our Signature Dishes"
       description="Discover the art of flavor through our chef's curated seasonal selections."
+      buttons={[
+        {
+          text: "View Full Menu",          href: "#"
+        }
+      ]}
     />
   </div>
 
